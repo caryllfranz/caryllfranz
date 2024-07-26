@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Caryll Franz M. Cariño</h1>
-<h3 align="center">A pursuing Data analyst from the Philippines</h3>
+<h3 align="center">Aspiring Data Analyst | Recent Computer Engineering Graduate from Adamson University | Based in the Philippines</h3>
 
 - 🌱 I’m currently learning **Python,SQL**
 
