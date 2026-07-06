@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Caryll Franz 👋</h1>
+<h1 align="center">Hi, I'm Caryll Franz Carino 👋</h1>
 
 <p align="center">
   Computer Engineering Graduate · Software Developer · Aspiring Data Scientist 🇵🇭
