@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Caryll Franz Carino 👋</h1>
+<h1 align="center">Hi, I'm Caryll Franz Carino </h1>
 
 <p align="center">
-  Computer Engineering Graduate · Software Developer · Aspiring Data Scientist 🇵🇭
+ · Aspiring AI Engineer/Data Scientist 🇵🇭
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
 - Passionate about building software and solving real-world problems.
 - Interested in Data Science, Machine Learning, Mobile Development, and Backend Development.
