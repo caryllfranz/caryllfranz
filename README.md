@@ -61,11 +61,6 @@
 
 ---
 
-### 📌 Featured Projects
-
-- **[BabAI](https://github.com/caryllfranz/babAI)** — Full-stack AI commuter assistant with GPS-based proximity detection and an LLM-powered chatbot (React Native, FastAPI, Supabase, OpenRouter API)
-- **[DS Salary Predictor](https://github.com/caryllfranz/ds-salary-predictor)** — End-to-end ML pipeline predicting data science salaries using XGBoost across 162 engineered features, with SHAP-based interpretability
-- **[SpotSecure](https://github.com/caryllfranz/LPR)** — Smart parking system with automatic license plate recognition, integrating Flutter, REST APIs, and Raspberry Pi
 
 ---
 
