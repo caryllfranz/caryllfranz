@@ -16,10 +16,9 @@
 
 ### About Me
 
-- Software Analyst at **Accenture**, working with enterprise Java applications and automating SQL reporting workflows with Python.
-- Building **RAG-based AI systems** and ML pipelines — from an AI-powered commuter assistant with an LLM chatbot ([BabAI](https://github.com/caryllfranz/babAI)) to a salary prediction model with SHAP-based interpretability ([DS Salary Predictor](https://github.com/caryllfranz/ds-salary-predictor)).
-- Currently deepening my skills in **LLMs, RAG pipelines, and data engineering** — moving toward AI Engineer / Data Scientist / Data Engineer roles.
-- I like understanding *why* a model or system works, not just shipping it.
+- Software Engineer transitioning into AI/ML and Data Engineering.
+- Focused on building RAG-based AI systems, ML pipelines, and clean data workflows.
+- I like understanding *why* a model or system works, not just shipping it — explainability and clean data pipelines matter as much to me as the end result.
 
 ---
 
@@ -59,3 +58,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caryllfranz&layout=compact&theme=default" />
+</p>
