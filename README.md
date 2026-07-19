@@ -19,7 +19,7 @@
 - Software Analyst at **Accenture**, working with enterprise Java applications and automating SQL reporting workflows with Python.
 - Building **RAG-based AI systems** and ML pipelines — from an AI-powered commuter assistant with an LLM chatbot ([BabAI](https://github.com/caryllfranz/babAI)) to a salary prediction model with SHAP-based interpretability ([DS Salary Predictor](https://github.com/caryllfranz/ds-salary-predictor)).
 - Currently deepening my skills in **LLMs, RAG pipelines, and data engineering** — moving toward AI Engineer / Data Scientist / Data Engineer roles.
-- I like understanding *why* a model or system works, not just shipping it — SHAP explainability and clean data pipelines matter as much to me as the end result.
+- I like understanding *why* a model or system works, not just shipping it.
 
 ---
 
