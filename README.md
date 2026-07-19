@@ -1,7 +1,6 @@
-<h1 align="center">Hi, I'm Caryll Franz Carino </h1>
-
+<h1 align="center">Hi, I'm Caryll Franz Cariño 👋</h1>
 <p align="center">
- · Aspiring AI Engineer/Data Scientist 🇵🇭
+ Software Engineer transitioning into AI/ML & Data Engineering 🇵🇭
 </p>
 
 <p align="center">
@@ -15,46 +14,58 @@
 
 ---
 
-###  About Me
+### About Me
 
-- Passionate about building software and solving real-world problems.
-- Interested in Data Science, Machine Learning, Mobile Development, and Backend Development.
-- Currently learning and building projects with Python, React Native, and FastAPI.
+- Software Analyst at **Accenture**, working with enterprise Java applications and automating SQL reporting workflows with Python.
+- Building **RAG-based AI systems** and ML pipelines — from an AI-powered commuter assistant with an LLM chatbot ([BabAI](https://github.com/caryllfranz/babAI)) to a salary prediction model with SHAP-based interpretability ([DS Salary Predictor](https://github.com/caryllfranz/ds-salary-predictor)).
+- Currently deepening my skills in **LLMs, RAG pipelines, and data engineering** — moving toward AI Engineer / Data Scientist / Data Engineer roles.
+- I like understanding *why* a model or system works, not just shipping it — SHAP explainability and clean data pipelines matter as much to me as the end result.
 
 ---
 
 ### 🛠️ Tech Stack
 
 #### Languages
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-#### Frameworks & Libraries
+#### AI / LLM / RAG
+![OpenAI](https://img.shields.io/badge/Azure_OpenAI-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
+![LangChain](https://img.shields.io/badge/RAG-FF6F00?style=flat-square&logo=databricks&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-
-#### Data Science
-
+#### Machine Learning / Data Science
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-189BCC?style=flat-square&logo=python&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-8E44AD?style=flat-square&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-#### Database & Tools
-
+#### Data Engineering
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+#### Frameworks & Tools
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+---
+
+### 📌 Featured Projects
+
+- **[BabAI](https://github.com/caryllfranz/babAI)** — Full-stack AI commuter assistant with GPS-based proximity detection and an LLM-powered chatbot (React Native, FastAPI, Supabase, OpenRouter API)
+- **[DS Salary Predictor](https://github.com/caryllfranz/ds-salary-predictor)** — End-to-end ML pipeline predicting data science salaries using XGBoost across 162 engineered features, with SHAP-based interpretability
+- **[SpotSecure](https://github.com/caryllfranz/LPR)** — Smart parking system with automatic license plate recognition, integrating Flutter, REST APIs, and Raspberry Pi
 
 ---
 
